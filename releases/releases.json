@@ -3,8 +3,8 @@
   "notes": "Initial release of ZamdaHealth POS",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/<username>/<repo>/releases/download/v0.1.0/zamdahealth-pos-desktop_0.1.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRTJNbFVsV2JSWE1NL0Q5K1lNdDJTRmtBaDZLQTJXTlRVRXMyZlJvMGN4SFJ5dXdDQnR5bk1lalVpUC80YkxwWW5RTzdOVGM5ektqaG9DOGwxTFd2L3hsVnRzVncvNkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4Mjk3MzM5CWZpbGU6emFtZGFoZWFsdGgtcG9zLWRlc2t0b3BfMC4xLjBfeDY0LXNldHVwLmV4ZQpkYVg4WS8vRUZZUUtHQ1AzY0lGYVAwUG41TkYwOGpCSUQ4c29HcTdzRE8wSGl1aFExSHY2Q05CdTNmOEtabGJPU3RWVUNPaVhNQTV6b3ZoK2p6ZzNBQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRTJNbFVsV2JSWE1NL0Q5K1lNdDJTRmtBaDZLQTJXTlRVRXMyZlJvMGN4SFJ5dXdDQnR5bk1lalVpUC80YkxwWW5RTzdOVGM5ektqaG9DOGwxTFd2L3hsVnRzVncvNkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4Mjk3MzM5CWZpbGU6emFtZGFoZWFsdGgtcG9zLWRlc2t0b3BfMC4xLjBfeDY0LXNldHVwLmV4ZQpkYVg4WS8vRUZZUUtHQ1AzY0lGYVAwUG41TkYwOGpCSUQ4c29HcTdzRE8wSGl1aFExSHY2Q05CdTNmOEtabGJPU3RWVUNPaVhNQTV6b3ZoK2p6ZzNBQT09Cg==",
+      "url": "https://github.com/johnmartins-hillary/zamdahealth-pos-desktop-releases/blob/master/releases/zamdahealth-pos-desktop_0.1.0_x64-setup.exe"
     }
   }
 }
