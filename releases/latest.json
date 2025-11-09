@@ -4,7 +4,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSLyt0dE4rLzFUWFJVTTU2SjdNQmplREsvWDFJRU52V0hWNUVTb3VGQ1hrblY5c3dFVWZGS3BXUnBDUEp5VXFRVmNWS2RDL2VXamxjK0p4N3VhOHR2NkR5T3huWHM4T2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNzIzODM2CWZpbGU6emFtZGFoZWFsdGgtcG9zLWRlc2t0b3BfMC4xLjFfeDY0LXNldHVwLmV4ZQo0cTRyUEFBT1JkZUZGM2crcGVVNnJMMmNGOEFMYTVUaUVyNzA1WjlWRHdHWGVZeklsNlpHM0FSeDNmTGQyLzNndUQ3QmtzaXE3bXNaWDNkbDYrQStDZz09Cg==",
-      "url": "https://github.com/johnmartins-hillary/zamdahealth-pos-desktop-releases/releases/download/v0.1.1/zamdahealth-pos-desktop_0.1.1_x64-setup.exe"
+      "url": "https://github.com/johnmartins-hillary/zamdahealth-pos-desktop-releases/releases/download/zampos-staging_v0.1.1/zamdahealth-pos-desktop_0.1.1_x64-setup.exe"
     }
   }
 }
