@@ -1,0 +1,5 @@
+/latest.json
+  Content-Type: application/json
+
+/releases/*
+  Content-Type: application/octet-stream
