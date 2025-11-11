@@ -1,5 +1,7 @@
 /latest.json
   Content-Type: application/json
+  Cache-Control: no-cache
 
 /releases/*
   Content-Type: application/octet-stream
+  Cache-Control: no-cache
